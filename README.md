@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jackson
-- 👀 This is a place where you can find my projects from MATLAB and Solidworks
+- 👀 This is a place where you can find my projects from various engineering programs
 - 🌱 I’m currently a student in mechanical engineering
 - 📫 You can send my emails at jackporter.son@gmail.com
 - 😄 Pronouns: He/Him 
